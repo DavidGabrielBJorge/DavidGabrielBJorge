@@ -20,7 +20,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" width="40" height="40"/>
 </div>
 <h2>Projetos</h2>
-<p>Site Imobiliária Amanhecer</p>https://davidgabrielbjorge.github.io/Imobiliaria/
+<p>Site Imobiliária Amanhecer: https://davidgabrielbjorge.github.io/Imobiliaria/</p>
+<p>Site Advinha o Número: https://davidgabrielbjorge.github.io/AdivinhaONumero/</p>
 
 ## Status:
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DavidGabrielBJorge&show_icons=true&theme=synthwave)
