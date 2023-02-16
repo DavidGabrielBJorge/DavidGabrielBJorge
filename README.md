@@ -25,8 +25,8 @@
 <p>Sistema de Clima: https://davidgabrielbjorge.github.io/SistemaDeClima/</p>
 
 ## Status:
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DavidGabrielBJorge&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DavidGabrielBJorge&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidGabrielBJorge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidGabrielBJorge&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
