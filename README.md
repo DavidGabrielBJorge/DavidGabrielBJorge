@@ -26,6 +26,7 @@
 <P>Site de Locadora de Filme: https://davidgabrielbjorge.github.io/SistemaDeLocadora/index.html</p>
 <p>Repositório API Imobiliária: https://github.com/DavidGabrielBJorge/ImobiliariaAPI</p>
 <p>Site Game Explorer: https://DavidGabrielBJorge.github.io/GameExplorer</p>
+<p>Site Lista de Tarefas: https://davidgabrielbjorge.github.io/ListaDeTarefas/</p>
 
 ## Status:
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DavidGabrielBJorge&show_icons=true&theme=dracula)
