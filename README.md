@@ -27,6 +27,7 @@
 <p>Repositório API Imobiliária: https://github.com/DavidGabrielBJorge/ImobiliariaAPI</p>
 <p>Site Game Explorer: https://DavidGabrielBJorge.github.io/GameExplorer</p>
 <p>Site Lista de Tarefas: https://davidgabrielbjorge.github.io/ListaDeTarefas/</p>
+<p>Site sobre o jogo Nier Automata: https://niersitedavidgbj.vercel.app/</p>
 
 ## Status:
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DavidGabrielBJorge&show_icons=true&theme=dracula)
